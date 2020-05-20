@@ -3,4 +3,13 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="my_app_primary_variant_color">#c2185b</color>
+    <color name="my_app_secondary_variant_color">#0277bd</color>
+    <color name="my_app_surface_color">#ffffff</color>
+    <color name="my_app_color_on_primary">#ffffff</color>
+    <color name="my_app_color_on_secondary">#ffffff</color>
+    <color name="my_app_color_on_background">#000000</color>
+    <color name="my_app_color_on_error">#ff9494</color>
+    <color name="my_app_color_on_surface">#000000</color>
+
 </resources>
